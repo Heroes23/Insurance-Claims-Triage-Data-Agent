@@ -1,0 +1,10 @@
+{{ config(severity='warn') }}
+
+-- Warns if months since last claim exceeds months since policy inception,
+-- which is logically impossible (a claim can't predate the policy).
+select
+    customer_id,
+    months_since_last_claim,
+    months_since_policy_inception
+from {{ ref('stg_auto_insurance') }}
+where months_since_last_claim > months_since_policy_inception

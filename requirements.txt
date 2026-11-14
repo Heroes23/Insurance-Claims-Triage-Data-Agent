@@ -1,0 +1,25 @@
+# Warehouse + loading
+snowflake-connector-python>=3.12
+python-dotenv>=1.0
+pandas>=2.2
+
+# dbt Core 1.x (do NOT install the `dbt` v2 package alongside dbt-core: they collide)
+dbt-core>=1.11,<2
+dbt-snowflake>=1.11,<2
+
+# Orchestration
+dagster>=1.13
+dagster-dbt>=0.29
+dagster-webserver>=1.13
+
+# Agent
+anthropic>=0.100
+langchain>=1.0
+langchain-anthropic>=1.0
+langgraph>=1.0
+
+# Dashboard
+streamlit>=1.50
+
+# dbt-common / dbt-adapters need protobuf 6.x; protobuf 7 breaks them
+protobuf>=6,<7

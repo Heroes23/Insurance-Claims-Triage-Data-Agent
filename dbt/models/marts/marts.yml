@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: mart_loss_ratio
+    description: >
+      Estimated loss ratio by state, coverage and vehicle class.
+      estimated_loss_ratio = sum(total_claim_amount) / sum(estimated_earned_premium).
+    columns:
+      - name: state
+        data_tests:
+          - not_null
+      - name: coverage
+        data_tests:
+          - not_null
+      - name: vehicle_class
+        data_tests:
+          - not_null
+      - name: policy_count
+        data_tests:
+          - not_null
+
+  - name: mart_segment_performance
+    description: Policy counts and renewal response rate by sales channel and renew offer type.
+    columns:
+      - name: sales_channel
+        data_tests:
+          - not_null
+      - name: renew_offer_type
+        data_tests:
+          - not_null
+      - name: policy_count
+        data_tests:
+          - not_null

@@ -1,9 +1,16 @@
+cat > .gitignore <<'EOF'
 .env
 .venv/
 __pycache__/
 *.pyc
+.DS_Store
+.tmp_dagster_home_*
+
+# data and generated artifacts
 data/
 target/
 dbt_packages/
 logs/
-.DS_Store
+reports/
+patches/
+EOF
