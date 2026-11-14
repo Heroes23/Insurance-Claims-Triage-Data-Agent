@@ -33,7 +33,7 @@ Snowflake RAW ──► dbt (staging → intermediate → marts) ──► Strea
 | Layer | Tool |
 |---|---|
 | Warehouse | Snowflake |
-| Transformation | dbt (dbt-snowflake) |
+| Transformation | DBT (DBT-Snowflake) |
 | Orchestration | Dagster (`dagster-dbt`) |
 | Agent | LangGraph + LangChain + Anthropic SDK (Claude) |
 | Dashboard | Streamlit |
