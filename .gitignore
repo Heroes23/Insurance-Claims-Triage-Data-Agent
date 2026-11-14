@@ -11,6 +11,5 @@ data/
 target/
 dbt_packages/
 logs/
-reports/
 patches/
 EOF
