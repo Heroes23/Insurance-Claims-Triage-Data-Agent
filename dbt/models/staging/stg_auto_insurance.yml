@@ -1,0 +1,69 @@
+version: 2
+
+models:
+  - name: stg_auto_insurance
+    description: >
+      One row per customer/policy, cast and cleaned from RAW.AUTO_INSURANCE_BATCHES.
+      estimated_earned_premium = monthly_premium_auto * months_since_policy_inception.
+    columns:
+      - name: customer_id
+        description: Unique customer/policy identifier.
+        data_tests:
+          - unique
+          - not_null
+
+      - name: state
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Arizona', 'California', 'Nevada', 'Oregon', 'Washington']
+
+      - name: coverage
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Basic', 'Extended', 'Premium']
+
+      - name: policy_type
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Corporate Auto', 'Personal Auto', 'Special Auto']
+
+      - name: response
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Yes', 'No']
+
+      - name: vehicle_size
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Small', 'Medsize', 'Large']
+
+      - name: effective_to_date
+        description: Parsed from mixed M/D/YY and M/D/YYYY text in RAW.
+        data_tests:
+          - not_null
+
+      - name: monthly_premium_auto
+        data_tests:
+          - not_null
+
+      - name: total_claim_amount
+        data_tests:
+          - not_null
+
+      - name: months_since_policy_inception
+        data_tests:
+          - not_null
+
+      - name: batch_date
+        data_tests:
+          - not_null

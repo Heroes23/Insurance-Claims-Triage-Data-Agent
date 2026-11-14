@@ -1,0 +1,17 @@
+name: insurance_dbt
+version: "1.0.0"
+config-version: 2
+profile: insurance_dbt
+
+model-paths: ["models"]
+test-paths: ["tests"]
+snapshot-paths: ["snapshots"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  insurance_dbt:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
