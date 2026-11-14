@@ -5,11 +5,3 @@ __pycache__/
 *.pyc
 .DS_Store
 .tmp_dagster_home_*
-
-# data and generated artifacts
-data/
-target/
-dbt_packages/
-logs/
-patches/
-EOF

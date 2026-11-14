@@ -1,0 +1,156 @@
+CUSTOMER,STATE,CUSTOMER_LIFETIME_VALUE,RESPONSE,COVERAGE,EDUCATION,EFFECTIVE_TO_DATE,EMPLOYMENT_STATUS,GENDER,INCOME,LOCATION_CODE,MARITAL_STATUS,MONTHLY_PREMIUM_AUTO,MONTHS_SINCE_LAST_CLAIM,MONTHS_SINCE_POLICY_INCEPTION,NUMBER_OF_OPEN_COMPLAINTS,NUMBER_OF_POLICIES,POLICY_TYPE,POLICY,RENEW_OFFER_TYPE,SALES_CHANNEL,TOTAL_CLAIM_AMOUNT,VEHICLE_CLASS,VEHICLE_SIZE,BATCH_DATE
+AD89594,California,12817.41348,No,Basic,College,1/18/11,Employed,M,28651,Urban,Single,67,4,25,0,2,Personal Auto,Personal L2,Offer3,Agent,302.272725,Four-Door Car,Medsize,2026-02-14
+AJ32539,Oregon,2829.312319,No,Basic,Bachelor,2/27/11,Employed,M,25860,Suburban,Married,72,12,46,0,1,Personal Auto,Personal L3,Offer2,Web,345.6,Four-Door Car,Medsize,2026-02-14
+AO46433,California,8078.53085,No,Premium,Bachelor,1/20/11,Unemployed,F,0,Suburban,Married,114,1,39,1,5,Personal Auto,Personal L2,Offer1,Branch,547.2,Four-Door Car,Medsize,2026-02-14
+AS99827,Oregon,4463.607161,No,Basic,Bachelor,12/2/2011,Unemployed,F,0,Suburban,Single,62,15,95,0,6,Personal Auto,Personal L1,Offer1,Branch,567.343266,Four-Door Car,Medsize,2026-02-14
+AX56708,California,4794.481412,No,Basic,High School or Below,1/23/11,Retired,M,20862,Suburban,Divorced,68,1,69,0,9,Personal Auto,Personal L3,Offer1,Agent,326.4,Four-Door Car,Small,2026-02-14
+BB10681,California,4140.648654,No,Extended,College,1/17/11,Unemployed,F,0,Suburban,Divorced,123,5,35,2,1,Corporate Auto,Corporate L3,Offer1,Branch,590.4,SUV,Medsize,2026-02-14
+BF45697,California,5670.132321,No,Basic,College,1/14/11,Employed,M,83086,Urban,Married,71,1,43,3,3,Personal Auto,Personal L3,Offer3,Agent,320.486645,Four-Door Car,Medsize,2026-02-14
+BK57087,California,4347.159852,No,Basic,College,1/1/2011,Employed,F,38223,Suburban,Married,112,27,18,2,1,Personal Auto,Personal L3,Offer3,Branch,537.6,SUV,Medsize,2026-02-14
+BO42776,Washington,25360.10404,No,Basic,Bachelor,3/1/2011,Employed,M,21442,Suburban,Married,108,16,83,0,2,Corporate Auto,Corporate L3,Offer1,Agent,518.4,SUV,Medsize,2026-02-14
+BS95225,California,2617.704041,No,Basic,College,1/19/11,Medical Leave,M,14151,Suburban,Single,72,5,41,1,1,Personal Auto,Personal L2,Offer2,Branch,345.6,Four-Door Car,Medsize,2026-02-14
+BX20846,Oregon,3861.486269,Yes,Extended,College,6/1/2011,Employed,F,93272,Urban,Married,95,3,54,0,1,Personal Auto,Personal L3,Offer2,Branch,281.110788,Four-Door Car,Medsize,2026-02-14
+CB96381,California,14590.24583,No,Basic,College,11/1/2011,Employed,F,46244,Urban,Divorced,62,8,3,0,2,Corporate Auto,Corporate L3,Offer4,Agent,255.285875,Four-Door Car,Medsize,2026-02-14
+CF62430,Nevada,9129.872774,No,Basic,Bachelor,2/27/11,Employed,F,70973,Suburban,Divorced,114,6,24,1,3,Personal Auto,Personal L2,Offer1,Agent,547.2,SUV,Small,2026-02-14
+CK15380,California,2784.911238,No,Basic,High School or Below,12/2/2011,Disabled,F,20814,Urban,Married,72,16,57,0,1,Personal Auto,Personal L2,Offer3,Call Center,288.594641,Four-Door Car,Medsize,2026-02-14
+CO53758,California,5059.987477,No,Basic,High School or Below,2/15/11,Employed,M,70999,Suburban,Married,63,5,70,0,3,Corporate Auto,Corporate L2,Offer4,Agent,305.603239,Four-Door Car,Small,2026-02-14
+CS32416,Oregon,5595.761077,No,Basic,Bachelor,11/1/2011,Employed,M,68004,Suburban,Single,72,6,14,0,3,Corporate Auto,Corporate L2,Offer1,Agent,416.344082,Two-Door Car,Medsize,2026-02-14
+CW80905,Nevada,9212.613275,No,Basic,High School or Below,2/18/11,Employed,M,70958,Rural,Married,115,1,57,0,7,Personal Auto,Personal L2,Offer1,Agent,115.400119,Sports Car,Medsize,2026-02-14
+DB26077,Arizona,4873.436612,No,Extended,High School or Below,5/1/2011,Retired,F,18866,Suburban,Married,126,4,62,0,1,Personal Auto,Personal L2,Offer3,Call Center,604.8,SUV,Medsize,2026-02-14
+DG21323,California,4758.564558,No,Basic,High School or Below,2/13/11,Unemployed,F,0,Suburban,Single,64,29,36,0,9,Personal Auto,Personal L3,Offer3,Branch,607.733606,Four-Door Car,Medsize,2026-02-14
+DK93464,Nevada,8571.480718,No,Premium,Bachelor,1/23/11,Employed,F,56202,Urban,Married,107,19,33,0,8,Personal Auto,Personal L1,Offer2,Agent,513.511091,Two-Door Car,Medsize,2026-02-14
+DP26592,Oregon,2518.112127,No,Basic,High School or Below,8/1/2011,Employed,M,86617,Urban,Single,63,9,10,0,1,Personal Auto,Personal L3,Offer3,Agent,188.325603,Four-Door Car,Medsize,2026-02-14
+DT35588,Oregon,4330.38602,Yes,Premium,College,2/16/11,Employed,M,60475,Suburban,Married,107,9,18,0,1,Personal Auto,Personal L1,Offer2,Branch,513.6,Four-Door Car,Medsize,2026-02-14
+DY35486,California,19957.79034,No,Basic,High School or Below,1/29/11,Unemployed,M,0,Suburban,Single,187,1,7,0,2,Personal Auto,Personal L2,Offer1,Agent,1346.4,Luxury Car,Large,2026-02-14
+ED29955,California,5284.041003,No,Basic,Bachelor,1/15/11,Employed,M,61542,Suburban,Married,67,33,83,0,6,Personal Auto,Personal L3,Offer1,Agent,321.6,Four-Door Car,Medsize,2026-02-14
+EH86912,California,8420.43119,No,Basic,College,2/27/11,Disabled,M,28617,Suburban,Married,112,20,57,0,9,Personal Auto,Personal L2,Offer3,Agent,797.595611,SUV,Medsize,2026-02-14
+EM16179,Arizona,8274.145703,No,Basic,College,6/1/2011,Employed,F,69011,Suburban,Single,70,3,52,0,2,Personal Auto,Personal L3,Offer1,Call Center,336,Four-Door Car,Medsize,2026-02-14
+EQ15944,Oregon,2953.617963,No,Basic,Doctor,2/16/11,Employed,F,76474,Suburban,Married,74,4,79,2,1,Personal Auto,Personal L2,Offer4,Web,355.2,Four-Door Car,Small,2026-02-14
+EU59853,California,4126.61326,No,Premium,College,2/20/11,Employed,M,34080,Rural,Married,107,11,48,1,1,Personal Auto,Personal L3,Offer4,Branch,220.644418,Four-Door Car,Medsize,2026-02-14
+EY71439,California,7131.731291,No,Basic,High School or Below,10/1/2011,Unemployed,M,0,Suburban,Single,103,29,58,0,3,Corporate Auto,Corporate L2,Offer3,Call Center,741.6,Sports Car,Small,2026-02-14
+FC59209,California,2460.665175,No,Basic,Bachelor,9/1/2011,Unemployed,F,0,Suburban,Married,67,30,13,0,1,Personal Auto,Personal L1,Offer4,Call Center,321.6,Four-Door Car,Large,2026-02-14
+FG29932,California,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7,24,2,1,Special Auto,Special L2,Offer2,Agent,1008,Luxury SUV,Small,2026-02-14
+FJ31683,Washington,2842.822337,No,Basic,Doctor,4/1/2011,Employed,F,43793,Rural,Married,71,8,31,0,1,Personal Auto,Personal L2,Offer2,Agent,16.150175,Four-Door Car,Medsize,2026-02-14
+FN69743,California,4636.54647,Yes,Basic,College,1/1/2011,Retired,M,26802,Suburban,Married,66,7,43,1,5,Corporate Auto,Corporate L1,Offer2,Agent,316.8,Two-Door Car,Medsize,2026-02-14
+FR12423,Oregon,24127.50402,Yes,Basic,Bachelor,1/26/11,Medical Leave,M,14072,Suburban,Divorced,71,13,3,0,2,Personal Auto,Personal L3,Offer1,Agent,511.2,Four-Door Car,Medsize,2026-02-14
+FV63234,California,4957.1612,No,Basic,Bachelor,2/28/11,Unemployed,F,0,Suburban,Divorced,67,3,69,0,7,Personal Auto,Personal L2,Offer2,Branch,321.6,Four-Door Car,Medsize,2026-02-14
+FZ24763,California,5078.451231,No,Basic,Bachelor,4/1/2011,Employed,M,35289,Rural,Married,65,34,94,0,3,Personal Auto,Personal L1,Offer4,Web,123.945627,Four-Door Car,Medsize,2026-02-14
+GD56260,Oregon,2863.04871,No,Basic,Master,4/2/2011,Employed,F,41077,Rural,Married,71,3,14,0,1,Personal Auto,Personal L3,Offer1,Agent,82.415457,Two-Door Car,Medsize,2026-02-14
+GH54524,California,16973.74021,No,Premium,High School or Below,7/2/2011,Employed,M,69497,Rural,Married,142,30,31,0,2,Personal Auto,Personal L3,Offer4,Agent,92.286763,SUV,Medsize,2026-02-14
+GM48223,Oregon,5461.967787,No,Basic,Bachelor,6/2/2011,Employed,F,42650,Rural,Married,69,10,92,0,5,Personal Auto,Personal L1,Offer3,Agent,35.565605,Four-Door Car,Medsize,2026-02-14
+GQ46925,Arizona,5821.684337,No,Premium,High School or Below,2/15/11,Employed,M,77563,Urban,Married,143,35,58,0,1,Personal Auto,Personal L1,Offer4,Call Center,545.999699,Sports Car,Medsize,2026-02-14
+GU99037,Oregon,2452.977288,No,Basic,College,2/14/11,Employed,M,79898,Urban,Married,62,5,86,1,1,Corporate Auto,Corporate L1,Offer4,Agent,271.606799,Four-Door Car,Medsize,2026-02-14
+GZ77449,California,14439.80313,No,Basic,College,1/23/11,Employed,M,58452,Suburban,Single,186,7,13,0,5,Corporate Auto,Corporate L3,Offer4,Branch,892.8,Luxury Car,Medsize,2026-02-14
+HE20556,Arizona,5324.38786,No,Basic,Bachelor,1/18/11,Employed,F,31561,Suburban,Divorced,68,8,62,0,7,Personal Auto,Personal L3,Offer3,Web,326.4,Four-Door Car,Medsize,2026-02-14
+HI48554,California,2648.350463,No,Basic,High School or Below,1/16/11,Medical Leave,F,29587,Suburban,Married,69,8,68,0,1,Personal Auto,Personal L2,Offer4,Web,331.2,Two-Door Car,Small,2026-02-14
+HN95240,Arizona,4984.095342,No,Basic,College,2/14/11,Unemployed,F,0,Suburban,Divorced,70,25,48,0,9,Corporate Auto,Corporate L1,Offer1,Agent,336,Four-Door Car,Small,2026-02-14
+HS14476,Washington,9162.063169,No,Extended,College,2/23/11,Medical Leave,M,29723,Rural,Married,80,8,79,0,2,Personal Auto,Personal L2,Offer1,Call Center,20.985105,Four-Door Car,Medsize,2026-02-14
+HW62747,Oregon,2298.379166,No,Basic,College,2/1/2011,Unemployed,M,0,Suburban,Married,63,19,9,0,1,Corporate Auto,Corporate L1,Offer2,Branch,302.4,Four-Door Car,Small,2026-02-14
+IA31850,Arizona,4574.547243,No,Basic,College,2/15/11,Unemployed,F,0,Suburban,Single,63,3,5,0,6,Personal Auto,Personal L1,Offer1,Agent,453.6,Four-Door Car,Small,2026-02-14
+IE36279,California,2844.849804,No,Basic,Bachelor,6/2/2011,Employed,M,80306,Suburban,Divorced,71,11,12,0,1,Corporate Auto,Corporate L1,Offer3,Call Center,340.8,Two-Door Car,Medsize,2026-02-14
+IJ52285,Arizona,6135.083838,No,Extended,Master,9/1/2011,Employed,F,43579,Suburban,Single,77,12,17,0,8,Personal Auto,Personal L2,Offer1,Agent,452.095421,Two-Door Car,Small,2026-02-14
+IN77241,Washington,5394.703229,No,Basic,Bachelor,6/2/2011,Employed,M,65978,Urban,Married,67,3,50,0,3,Corporate Auto,Corporate L1,Offer2,Branch,251.795869,Two-Door Car,Medsize,2026-02-14
+IS63925,Arizona,7805.31287,Yes,Basic,College,1/27/11,Retired,F,21073,Suburban,Divorced,106,25,54,1,3,Personal Auto,Personal L2,Offer1,Agent,508.8,SUV,Small,2026-02-14
+IX46908,California,5477.206072,No,Basic,College,2/28/11,Medical Leave,F,21289,Suburban,Married,71,15,98,0,3,Corporate Auto,Corporate L2,Offer2,Branch,340.8,Four-Door Car,Large,2026-02-14
+JC11405,Oregon,10963.95723,Yes,Premium,High School or Below,8/2/2011,Employed,M,55687,Suburban,Divorced,276,33,91,0,1,Personal Auto,Personal L3,Offer1,Agent,1324.8,Luxury SUV,Medsize,2026-02-14
+JG61793,Washington,3046.248976,No,Extended,High School or Below,1/18/11,Unemployed,M,0,Suburban,Single,98,4,43,2,1,Personal Auto,Personal L1,Offer1,Branch,705.6,Four-Door Car,Small,2026-02-14
+JL25091,California,4599.759229,No,Premium,Bachelor,2/27/11,Employed,M,79284,Rural,Single,117,9,59,1,1,Special Auto,Special L2,Offer3,Agent,156.452827,Four-Door Car,Medsize,2026-02-14
+JP44710,Nevada,4354.398727,No,Extended,High School or Below,6/1/2011,Unemployed,M,0,Suburban,Single,121,30,85,0,1,Personal Auto,Personal L3,Offer1,Call Center,871.2,SUV,Medsize,2026-02-14
+JT46803,Oregon,2756.543334,No,Basic,Bachelor,9/1/2011,Employed,F,42336,Rural,Single,69,12,56,0,1,Personal Auto,Personal L2,Offer3,Web,25.605349,Four-Door Car,Medsize,2026-02-14
+JX88012,Oregon,7960.007541,No,Basic,College,1/27/11,Employed,F,98350,Urban,Married,101,14,35,3,3,Corporate Auto,Corporate L3,Offer1,Agent,289.181979,SUV,Medsize,2026-02-14
+KB90953,California,40132.01135,No,Extended,Bachelor,2/24/11,Employed,F,98710,Urban,Married,123,21,42,0,2,Personal Auto,Personal L2,Offer2,Branch,587.391029,Sports Car,Medsize,2026-02-14
+KG16176,Washington,2434.849287,No,Basic,College,1/19/11,Unemployed,F,0,Urban,Married,66,30,34,0,1,Personal Auto,Personal L2,Offer1,Agent,167.073308,Four-Door Car,Medsize,2026-02-14
+KJ87930,California,3886.504807,No,Basic,Bachelor,6/2/2011,Unemployed,F,0,Suburban,Single,112,13,59,0,1,Corporate Auto,Corporate L2,Offer1,Agent,1185.988301,SUV,Medsize,2026-02-14
+KO86181,Oregon,6941.872931,No,Basic,College,11/2/2011,Unemployed,F,0,Suburban,Single,111,3,73,3,6,Personal Auto,Personal L3,Offer1,Agent,532.8,SUV,Small,2026-02-14
+KT61396,California,3821.819872,No,Extended,College,1/16/11,Employed,F,79189,Rural,Married,95,20,50,0,1,Corporate Auto,Corporate L2,Offer2,Branch,50.171541,Two-Door Car,Small,2026-02-14
+KX86150,California,7188.292633,No,Extended,High School or Below,1/29/11,Medical Leave,M,13542,Suburban,Married,94,5,35,0,8,Personal Auto,Personal L3,Offer1,Web,451.2,Four-Door Car,Small,2026-02-14
+LC44944,Washington,36470.3024,No,Premium,Doctor,1/21/11,Unemployed,F,0,Suburban,Married,113,0,9,3,2,Personal Auto,Personal L3,Offer2,Branch,813.6,Four-Door Car,Small,2026-02-14
+LH26131,Nevada,3876.772694,No,Premium,High School or Below,8/2/2011,Unemployed,F,0,Suburban,Single,108,2,18,0,1,Personal Auto,Personal L2,Offer1,Agent,1099.233361,Two-Door Car,Large,2026-02-14
+LL56632,Oregon,8679.79601,No,Basic,High School or Below,2/25/11,Employed,F,55842,Suburban,Married,109,4,26,0,3,Personal Auto,Personal L3,Offer2,Agent,703.118925,SUV,Medsize,2026-02-14
+LO48748,Oregon,7485.356469,No,Extended,Master,1/30/11,Employed,F,26380,Rural,Single,96,29,70,0,4,Personal Auto,Personal L1,Offer2,Web,177.36984,Four-Door Car,Large,2026-02-14
+LS59408,Arizona,2500.241685,No,Basic,High School or Below,1/20/11,Unemployed,M,0,Suburban,Married,67,4,44,0,1,Personal Auto,Personal L3,Offer2,Call Center,664.128009,Four-Door Car,Small,2026-02-14
+LW59140,Arizona,9277.472901,No,Premium,Bachelor,4/1/2011,Employed,M,97729,Rural,Married,115,4,48,1,7,Personal Auto,Personal L1,Offer3,Branch,221.047584,Four-Door Car,Large,2026-02-14
+MA43940,Oregon,9343.198788,No,Basic,High School or Below,2/13/11,Employed,M,75909,Suburban,Married,117,23,77,0,3,Special Auto,Special L3,Offer3,Branch,561.6,Sports Car,Medsize,2026-02-14
+ME35315,Washington,7756.307652,No,Basic,College,2/2/2011,Unemployed,M,0,Suburban,Single,74,24,63,0,2,Corporate Auto,Corporate L1,Offer1,Agent,532.8,Two-Door Car,Small,2026-02-14
+MJ60422,Arizona,6652.474492,No,Extended,Bachelor,9/2/2011,Employed,M,34886,Suburban,Married,84,3,40,0,5,Personal Auto,Personal L3,Offer1,Call Center,403.2,Two-Door Car,Small,2026-02-14
+MO38507,California,4540.381153,No,Basic,High School or Below,1/22/11,Employed,M,59556,Suburban,Married,113,11,86,0,1,Personal Auto,Personal L3,Offer3,Agent,681.505066,Sports Car,Large,2026-02-14
+MS34991,Arizona,6832.36853,No,Extended,High School or Below,1/14/11,Employed,M,66627,Suburban,Married,85,32,55,0,8,Personal Auto,Personal L1,Offer2,Branch,733.21126,Four-Door Car,Medsize,2026-02-14
+MW98508,Oregon,2889.087654,No,Basic,College,2/13/11,Employed,F,72075,Rural,Married,73,32,1,2,1,Special Auto,Special L3,Offer2,Web,22.569825,Four-Door Car,Medsize,2026-02-14
+NB30472,Arizona,41103.24183,No,Premium,College,1/24/11,Employed,F,30845,Suburban,Married,116,3,89,1,2,Personal Auto,Personal L2,Offer1,Branch,556.8,Four-Door Car,Medsize,2026-02-14
+NE85389,Oregon,23903.68234,No,Basic,High School or Below,10/1/2011,Unemployed,F,0,Suburban,Married,74,12,72,1,2,Personal Auto,Personal L3,Offer2,Branch,355.2,Four-Door Car,Medsize,2026-02-14
+NJ72300,Oregon,8009.028202,No,Basic,Bachelor,1/25/11,Unemployed,F,0,Suburban,Married,107,5,8,0,3,Personal Auto,Personal L3,Offer2,Web,740.963933,SUV,Small,2026-02-14
+NN66592,California,5923.518828,No,Basic,Bachelor,2/18/11,Employed,M,73758,Urban,Married,74,24,87,0,7,Personal Auto,Personal L2,Offer3,Branch,301.562622,Four-Door Car,Medsize,2026-02-14
+NT78297,Oregon,7517.378484,No,Extended,Bachelor,1/31/11,Employed,F,37695,Suburban,Single,96,17,3,0,3,Personal Auto,Personal L2,Offer1,Branch,460.8,Two-Door Car,Small,2026-02-14
+NY89701,California,5977.410465,No,Extended,Bachelor,5/2/2011,Employed,F,25320,Urban,Married,76,10,70,1,8,Personal Auto,Personal L3,Offer1,Agent,269.065636,Four-Door Car,Large,2026-02-14
+OB98149,Washington,4700.007467,No,Basic,College,10/2/2011,Disabled,F,11417,Suburban,Married,63,25,57,0,6,Personal Auto,Personal L3,Offer2,Agent,302.4,Two-Door Car,Small,2026-02-14
+OH15780,California,12280.76661,Yes,Premium,College,1/1/2011,Employed,M,88340,Suburban,Married,102,16,1,0,2,Personal Auto,Personal L2,Offer1,Branch,489.6,Two-Door Car,Medsize,2026-02-14
+OL55220,California,5241.142484,No,Basic,Bachelor,1/28/11,Employed,F,48345,Urban,Single,67,7,1,0,7,Personal Auto,Personal L3,Offer2,Web,212.009825,Four-Door Car,Large,2026-02-14
+OP54725,Washington,9540.923395,No,Premium,College,1/29/11,Employed,M,53351,Suburban,Married,119,4,7,0,6,Personal Auto,Personal L3,Offer1,Branch,571.2,Four-Door Car,Small,2026-02-14
+OU50429,California,7524.735746,No,Basic,Bachelor,4/2/2011,Employed,M,36580,Suburban,Married,64,20,76,1,2,Personal Auto,Personal L3,Offer2,Agent,460.8,Four-Door Car,Small,2026-02-14
+OY95739,Nevada,12298.6863,Yes,Basic,High School or Below,2/20/11,Medical Leave,M,17101,Suburban,Single,113,1,88,0,2,Corporate Auto,Corporate L3,Offer1,Call Center,542.4,SUV,Medsize,2026-02-14
+PD22502,California,4799.621411,No,Basic,Bachelor,1/24/11,Unemployed,F,0,Suburban,Married,65,11,25,0,4,Personal Auto,Personal L3,Offer1,Agent,312,Two-Door Car,Small,2026-02-14
+PH85036,Washington,5482.549359,No,Basic,Bachelor,10/2/2011,Employed,F,79325,Urban,Married,68,4,31,0,4,Corporate Auto,Corporate L2,Offer2,Agent,251.294821,Four-Door Car,Medsize,2026-02-14
+PN18863,California,5109.50079,No,Basic,College,11/1/2011,Employed,M,21277,Suburban,Divorced,66,1,42,0,9,Corporate Auto,Corporate L3,Offer2,Web,316.8,Four-Door Car,Medsize,2026-02-14
+PS25185,Washington,4097.371676,No,Premium,Bachelor,1/20/11,Medical Leave,F,20079,Suburban,Single,110,1,63,0,1,Corporate Auto,Corporate L3,Offer1,Web,528,Two-Door Car,Medsize,2026-02-14
+PV62583,Nevada,9799.175061,No,Extended,College,3/1/2011,Medical Leave,M,22166,Suburban,Married,126,10,22,0,6,Personal Auto,Personal L3,Offer1,Web,604.8,SUV,Medsize,2026-02-14
+PZ94965,California,5733.213979,No,Basic,High School or Below,4/2/2011,Employed,F,79955,Rural,Married,71,10,5,0,6,Personal Auto,Personal L3,Offer1,Agent,142.932303,Four-Door Car,Large,2026-02-14
+QD98396,California,5010.917847,No,Extended,College,2/21/11,Employed,M,45867,Suburban,Married,126,31,12,0,1,Personal Auto,Personal L2,Offer1,Agent,604.8,Sports Car,Medsize,2026-02-14
+QI60335,Nevada,11308.47178,No,Basic,College,12/1/2011,Unemployed,F,0,Suburban,Single,66,4,83,0,2,Personal Auto,Personal L1,Offer3,Branch,316.8,Four-Door Car,Medsize,2026-02-14
+QN13323,Oregon,8718.056722,No,Basic,High School or Below,1/17/11,Employed,M,89096,Rural,Single,111,1,50,0,3,Personal Auto,Personal L1,Offer2,Branch,64.98293,SUV,Large,2026-02-14
+QR42111,Arizona,5058.927182,No,Extended,High School or Below,2/24/11,Unemployed,F,0,Suburban,Married,134,32,27,0,1,Special Auto,Special L2,Offer1,Branch,643.2,SUV,Small,2026-02-14
+QV47358,Arizona,8133.157212,No,Basic,Bachelor,1/25/11,Employed,F,32021,Suburban,Single,70,12,58,0,2,Personal Auto,Personal L2,Offer1,Call Center,336,Four-Door Car,Small,2026-02-14
+QZ34525,California,6993.380588,No,Basic,Bachelor,2/21/11,Unemployed,M,0,Suburban,Single,66,7,59,0,2,Personal Auto,Personal L3,Offer1,Agent,439.701118,Four-Door Car,Medsize,2026-02-14
+RD40721,California,5384.731816,No,Extended,High School or Below,11/1/2011,Unemployed,M,0,Suburban,Divorced,78,14,68,0,5,Corporate Auto,Corporate L3,Offer3,Agent,748.774773,Four-Door Car,Medsize,2026-02-14
+RI69055,California,8104.43256,No,Basic,High School or Below,1/29/11,Employed,F,58172,Rural,Married,67,8,62,0,2,Personal Auto,Personal L3,Offer2,Web,141.532926,Four-Door Car,Medsize,2026-02-14
+RN65450,California,3059.426954,No,Extended,College,1/30/11,Unemployed,M,0,Suburban,Single,88,26,73,0,1,Personal Auto,Personal L2,Offer1,Branch,633.6,Four-Door Car,Small,2026-02-14
+RR64429,California,6778.84457,No,Extended,High School or Below,2/25/11,Unemployed,M,0,Suburban,Single,96,2,84,0,9,Personal Auto,Personal L3,Offer2,Agent,460.8,Four-Door Car,Small,2026-02-14
+RW51650,Oregon,8622.835375,Yes,Basic,Bachelor,2/18/11,Employed,M,97361,Suburban,Single,73,6,85,0,2,Personal Auto,Personal L2,Offer1,Agent,350.4,Four-Door Car,Medsize,2026-02-14
+SA91515,California,3992.583886,No,Basic,Bachelor,1/28/11,Unemployed,M,0,Suburban,Married,111,35,68,0,1,Personal Auto,Personal L1,Offer1,Call Center,700.349052,SUV,Large,2026-02-14
+SE78641,Arizona,4654.841089,No,Basic,Bachelor,1/16/11,Unemployed,M,0,Suburban,Single,67,33,19,0,4,Personal Auto,Personal L2,Offer1,Call Center,577.385463,Two-Door Car,Large,2026-02-14
+SI60881,Oregon,9217.978125,No,Basic,Bachelor,12/1/2011,Employed,F,26351,Suburban,Divorced,119,14,87,0,7,Personal Auto,Personal L2,Offer3,Branch,571.2,SUV,Medsize,2026-02-14
+SM52948,Nevada,8707.619537,No,Basic,Bachelor,5/1/2011,Employed,F,57107,Suburban,Married,110,27,84,3,7,Personal Auto,Personal L2,Offer2,Branch,528,SUV,Small,2026-02-14
+SR26762,California,7663.514373,No,Basic,Bachelor,7/2/2011,Employed,F,34837,Rural,Married,63,32,27,0,2,Personal Auto,Personal L1,Offer1,Agent,72.828431,Four-Door Car,Medsize,2026-02-14
+SW19699,Arizona,2755.747968,No,Basic,Bachelor,7/1/2011,Employed,F,49648,Rural,Divorced,70,0,23,0,1,Personal Auto,Personal L3,Offer2,Call Center,65.954813,Four-Door Car,Medsize,2026-02-14
+TA31436,California,8132.702789,No,Basic,Bachelor,9/1/2011,Employed,F,36737,Suburban,Married,102,13,20,0,8,Corporate Auto,Corporate L3,Offer1,Agent,512.861063,Sports Car,Large,2026-02-14
+TE82896,Oregon,2746.080105,No,Basic,High School or Below,2/19/11,Unemployed,F,0,Suburban,Married,74,5,75,0,1,Personal Auto,Personal L2,Offer2,Branch,355.2,Four-Door Car,Medsize,2026-02-14
+TJ68521,Washington,5251.968272,No,Basic,Master,1/14/11,Employed,M,41991,Rural,Single,67,14,75,0,3,Personal Auto,Personal L2,Offer1,Call Center,88.382536,Four-Door Car,Large,2026-02-14
+TN66124,California,10552.87837,No,Extended,High School or Below,3/1/2011,Employed,M,77627,Rural,Married,88,14,38,0,2,Corporate Auto,Corporate L2,Offer4,Web,205.169178,Two-Door Car,Medsize,2026-02-14
+TR39403,California,3681.978995,No,Extended,Master,1/31/11,Employed,F,77951,Rural,Married,93,28,46,3,1,Corporate Auto,Corporate L2,Offer4,Branch,19.668633,Two-Door Car,Medsize,2026-02-14
+TW11712,Arizona,4574.924641,No,Basic,Master,1/15/11,Employed,M,32906,Suburban,Single,115,18,17,0,1,Personal Auto,Personal L3,Offer1,Branch,552,SUV,Medsize,2026-02-14
+UA51318,Arizona,5116.624022,No,Basic,High School or Below,2/17/11,Employed,F,26173,Suburban,Single,68,2,10,1,9,Corporate Auto,Corporate L1,Offer2,Web,449.819671,Four-Door Car,Medsize,2026-02-14
+UF49068,California,7754.666388,No,Basic,College,2/22/11,Unemployed,M,0,Suburban,Single,117,2,36,0,3,Corporate Auto,Corporate L3,Offer3,Agent,918.655051,SUV,Medsize,2026-02-14
+UI73201,California,3667.37497,No,Extended,College,7/1/2011,Employed,M,62375,Suburban,Married,92,34,34,0,1,Personal Auto,Personal L2,Offer3,Web,618.630955,Two-Door Car,Medsize,2026-02-14
+UN37063,Arizona,4525.365839,No,Basic,Bachelor,1/31/11,Medical Leave,M,10269,Urban,Single,65,12,5,0,3,Personal Auto,Personal L1,Offer1,Agent,170.798204,Two-Door Car,Medsize,2026-02-14
+UQ73252,Arizona,4636.54647,Yes,Basic,College,1/1/2011,Retired,M,26802,Suburban,Married,66,7,43,1,5,Personal Auto,Personal L3,Offer2,Agent,316.8,Two-Door Car,Medsize,2026-02-14
+UV49359,Nevada,7372.230729,No,Basic,Bachelor,1/24/11,Employed,F,74335,Urban,Single,187,3,4,0,1,Corporate Auto,Corporate L1,Offer3,Agent,896.436023,Luxury Car,Small,2026-02-14
+VA35421,Nevada,5182.941518,No,Basic,Master,2/2/2011,Employed,F,83527,Rural,Married,64,19,27,1,3,Personal Auto,Personal L1,Offer2,Branch,39.127298,Two-Door Car,Large,2026-02-14
+VE85103,Nevada,2449.128459,No,Basic,College,8/1/2011,Medical Leave,M,20567,Suburban,Married,72,24,76,4,1,Personal Auto,Personal L2,Offer4,Agent,345.6,Four-Door Car,Large,2026-02-14
+VI55112,Oregon,14065.30235,No,Basic,College,2/2/2011,Employed,M,25275,Urban,Single,61,5,80,0,2,Corporate Auto,Corporate L1,Offer3,Agent,214.247114,Four-Door Car,Medsize,2026-02-14
+VN27419,Oregon,10083.48688,Yes,Extended,High School or Below,2/19/11,Retired,F,11828,Suburban,Divorced,90,18,84,0,2,Personal Auto,Personal L2,Offer1,Agent,571.479602,Four-Door Car,Large,2026-02-14
+VS80344,Arizona,8219.358756,No,Premium,Bachelor,2/16/11,Employed,F,28445,Urban,Married,103,18,72,0,6,Special Auto,Special L3,Offer1,Agent,427.762841,Two-Door Car,Medsize,2026-02-14
+VW84170,Washington,2819.114769,No,Basic,High School or Below,7/2/2011,Employed,F,88067,Suburban,Married,70,19,59,0,1,Personal Auto,Personal L3,Offer2,Branch,336,Four-Door Car,Small,2026-02-14
+WB37082,Arizona,6613.973653,No,Basic,Bachelor,1/23/11,Unemployed,F,0,Suburban,Single,63,21,28,0,2,Personal Auto,Personal L3,Offer3,Branch,676.391482,Four-Door Car,Large,2026-02-14
+WF34690,Oregon,19357.37201,No,Basic,Bachelor,7/2/2011,Unemployed,F,0,Suburban,Married,68,20,66,1,2,Personal Auto,Personal L3,Offer1,Branch,326.4,Four-Door Car,Medsize,2026-02-14
+WJ26538,California,3203.303695,No,Extended,Master,2/23/11,Employed,M,68370,Urban,Married,80,0,45,0,1,Personal Auto,Personal L2,Offer3,Agent,244.158446,Four-Door Car,Medsize,2026-02-14
+WN14473,Arizona,2882.350556,No,Basic,Master,2/17/11,Employed,M,87798,Urban,Married,71,18,73,0,1,Personal Auto,Personal L3,Offer2,Call Center,204.448708,Two-Door Car,Medsize,2026-02-14
+WR53191,California,15120.21281,No,Extended,Bachelor,2/16/11,Employed,F,20656,Suburban,Single,130,15,5,0,2,Corporate Auto,Corporate L2,Offer1,Web,706.114237,SUV,Medsize,2026-02-14
+WW19050,Oregon,5714.246379,No,Extended,High School or Below,2/26/11,Unemployed,M,0,Rural,Married,79,3,66,0,9,Personal Auto,Personal L2,Offer4,Agent,50.447629,Two-Door Car,Large,2026-02-14
+WZ45123,California,14435.67365,Yes,Premium,Master,1/26/11,Employed,M,60880,Rural,Married,119,25,89,0,2,Personal Auto,Personal L2,Offer1,Agent,109.906628,Two-Door Car,Medsize,2026-02-14
+XD29421,Oregon,15362.35442,No,Basic,High School or Below,10/1/2011,Employed,M,48115,Suburban,Married,192,15,67,0,5,Personal Auto,Personal L3,Offer3,Agent,1382.4,Luxury Car,Large,2026-02-14
+XI31845,Oregon,16007.94954,No,Extended,High School or Below,10/1/2011,Employed,F,45302,Suburban,Divorced,133,4,34,0,2,Personal Auto,Personal L1,Offer3,Branch,638.4,SUV,Small,2026-02-14
+XM69101,Oregon,7601.951104,No,Extended,Bachelor,1/29/11,Employed,M,47519,Urban,Married,96,21,2,0,4,Personal Auto,Personal L1,Offer2,Branch,245.248248,Two-Door Car,Medsize,2026-02-14
+XQ44462,Oregon,2674.730716,Yes,Basic,College,2/15/11,Employed,M,56342,Suburban,Single,69,12,89,0,1,Corporate Auto,Corporate L2,Offer2,Call Center,331.2,Four-Door Car,Small,2026-02-14
+XU56756,Oregon,23594.6802,Yes,Basic,Bachelor,1/31/11,Employed,M,76358,Rural,Married,66,25,3,0,2,Personal Auto,Personal L1,Offer3,Agent,86.461582,Four-Door Car,Medsize,2026-02-14
+XZ34917,Washington,5643.802354,No,Basic,Bachelor,10/1/2011,Employed,M,41043,Suburban,Married,72,22,60,0,3,Personal Auto,Personal L3,Offer2,Call Center,345.6,Four-Door Car,Small,2026-02-14
+YD45660,Arizona,9420.965855,No,Basic,Bachelor,2/15/11,Employed,F,47048,Suburban,Married,118,0,37,0,3,Personal Auto,Personal L3,Offer4,Call Center,566.4,SUV,Medsize,2026-02-14
+YH86106,Arizona,5764.862315,No,Basic,Bachelor,11/2/2011,Employed,M,40238,Suburban,Married,73,17,88,1,9,Personal Auto,Personal L3,Offer1,Branch,350.4,Four-Door Car,Medsize,2026-02-14
+YM24654,Washington,17966.28765,No,Basic,High School or Below,2/23/11,Unemployed,F,0,Suburban,Single,70,15,44,0,2,Personal Auto,Personal L3,Offer2,Agent,504,Four-Door Car,Medsize,2026-02-14
+YQ44187,Oregon,2545.220272,No,Basic,Bachelor,2/26/11,Employed,F,26746,Rural,Single,66,20,41,0,1,Personal Auto,Personal L2,Offer1,Agent,165.75305,Two-Door Car,Medsize,2026-02-14
+YV23210,Oregon,7422.186246,No,Basic,High School or Below,1/18/11,Employed,M,23617,Suburban,Married,189,0,47,0,1,Personal Auto,Personal L1,Offer3,Agent,907.2,Luxury Car,Small,2026-02-14
+ZA37110,Nevada,4699.034135,No,Extended,Bachelor,2/23/11,Unemployed,F,0,Rural,Married,129,14,93,2,1,Personal Auto,Personal L3,Offer1,Web,291.744204,SUV,Medsize,2026-02-14
+ZE85014,California,2357.747015,No,Basic,College,1/20/11,Disabled,M,25064,Suburban,Married,62,17,34,0,1,Personal Auto,Personal L3,Offer1,Call Center,297.6,Four-Door Car,Medsize,2026-02-14
+ZI72165,Arizona,4981.825724,No,Basic,High School or Below,1/26/11,Employed,M,33176,Suburban,Married,63,22,75,0,3,Corporate Auto,Corporate L3,Offer3,Branch,302.4,Four-Door Car,Medsize,2026-02-14
+ZN27753,Oregon,5794.565797,No,Basic,Bachelor,10/1/2011,Employed,M,70524,Suburban,Married,73,18,5,0,4,Personal Auto,Personal L2,Offer2,Web,350.4,Four-Door Car,Medsize,2026-02-14
+ZR72236,Nevada,5226.286197,No,Basic,Master,1/26/11,Employed,M,76646,Urban,Married,65,3,30,0,9,Personal Auto,Personal L3,Offer2,Branch,263.844471,Two-Door Car,Medsize,2026-02-14
+ZV55368,California,5709.358709,No,Basic,High School or Below,2/27/11,Employed,M,75650,Rural,Married,71,24,53,0,8,Corporate Auto,Corporate L2,Offer4,Agent,104.918485,Four-Door Car,Medsize,2026-02-14
+ZZ83340,Oregon,5508.315536,No,Basic,Doctor,4/2/2011,Employed,F,96021,Urban,Married,68,5,30,0,5,Personal Auto,Personal L1,Offer3,Branch,315.004602,Two-Door Car,Medsize,2026-02-14
