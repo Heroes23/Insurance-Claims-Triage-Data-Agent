@@ -2,7 +2,7 @@
 
 Batch data pipeline for auto insurance on Snowflake (dbt + Dagster), with a LangGraph agent that diagnoses failed dbt runs and proposes fixes and a Streamlit Data Visualization Report.
 
-> **Status:** weekend build, core pipeline and agent working. See [Known limitations](#known-limitations) and the [roadmap](#roadmap).
+> **Status:** Core pipeline and agent working. See [Known limitations](#known-limitations) and the [roadmap](#roadmap).
 
 ## Overview
 
