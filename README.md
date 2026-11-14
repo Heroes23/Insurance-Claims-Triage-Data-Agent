@@ -10,23 +10,29 @@ Daily claims files land in Snowflake, get transformed by dbt into analytics-read
 
 ## Architecture
 
+```mermaid
+flowchart TD
+    subgraph DAG["Dagster: partitions, schedule, failure sensor"]
+        A["Daily CSV batches"] -->|"PUT + COPY INTO"| B[("Snowflake<br/>RAW, ANALYTICS")]
+        B --> C["dbt<br/>staging → intermediate → marts"]
+    end
+
+    C --> D["Streamlit dashboard"]
+    C -->|"on failure"| E["dbt artifacts<br/>run_results.json, manifest.json"]
+    E --> F["LangGraph triage agent<br/>Claude + read-only tools"]
+    F -.->|"read-only SQL"| B
+    F --> G["reports/*.md"]
+    F --> H["patches/"]
+    G --> D
+
+    classDef pipeline fill:#E1F5EE,stroke:#0F6E56,color:#085041;
+    classDef agent fill:#EEEDFE,stroke:#534AB7,color:#3C3489;
+    classDef edge fill:#F1EFE8,stroke:#5F5E5A,color:#444441;
+    class B,C pipeline;
+    class E,F,G,H agent;
+    class A,D edge;
 ```
-daily CSV batches
-      │  PUT + COPY INTO
-      ▼
-Snowflake RAW ──► dbt (staging → intermediate → marts) ──► Streamlit dashboard
-      ▲                      │
-      │                      ▼ on failure
- Dagster (partitions,   run_results.json / manifest.json
- schedule, sensor)            │
-                              ▼
-                  LangGraph triage agent (Claude)
-                  tools: failures · model SQL · lineage ·
-                         read-only SQL · table profile · propose patch
-                              │
-                              ▼
-                      reports/*.md  +  patches/
-```
+
 
 ## Stack
 
