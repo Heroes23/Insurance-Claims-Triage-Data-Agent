@@ -180,4 +180,4 @@ python src/python/poison_batch.py --clean
 
 ## Dataset
 
-IBM-style synthetic auto insurance customer dataset: 9,134 rows, 24 columns, one row per customer. The CSV is not committed (`data/` is git-ignored). Do not commit real policyholder data.
+IBM-style synthetic auto insurance customer dataset: 9,134 rows, 24 columns, one row per customer.
